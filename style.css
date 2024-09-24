@@ -1,0 +1,11 @@
+h1 {
+    color: blue;
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+}
+
+img{
+    display: flex;
+    justify-content: space-between;
+    width: 250px;
+}
